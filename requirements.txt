@@ -1,0 +1,9 @@
+pypdf
+bs4
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
