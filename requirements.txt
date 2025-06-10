@@ -7,3 +7,10 @@ langchain-openai
 langchain-groq
 langchain-core
 langchain-community
+pdfminer.six
+chromadb
+langchain-chroma
+langchain-huggingface
+faiss-cpu
+wikipedia
+langgraph
